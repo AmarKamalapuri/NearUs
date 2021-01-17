@@ -2,6 +2,9 @@
 
 Near Us is a platformm that enables people to discover the local businesses flourishing near them. Local businesses such as tailors, tea sellers etc go unnoticed by this digital era even if the product/service they sell is pretty good. Near Us empowers the local businesses for selling their products/services. On the vendor side, there is a website with self-explanatory UI for the ease of understanding of the vendors. On the customer side, we have a website to discover/view/order from local businesses near them .
 
+# NearUs is hosted on Amazon Web Services
+
+ 
 # Developers of NearUs Platform
 
 <ul>
