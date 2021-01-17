@@ -30,7 +30,7 @@ Password: 123456
 https://drive.google.com/drive/folders/1baCFnaKCIoQ5c1VhOOxKRWTpSrBuV3-9
 <br>
 # Setup Instructions
-Install node modules in Backend as well as Client using command: npm install 
+Install node modules in Backend as well as in Client using command: npm install 
 <br>
 After installing node modules, start backend with command: node server.js <br>
 Start Frontend by running command in client folder : npm start <br>
