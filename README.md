@@ -15,3 +15,8 @@ Near Us is a platform that enables people to discover the local businesses flour
 # Technologies we used
 
 Node Js, Express, MongoDB, React (MERN), Cloudinary, cors, dotenv, axios, bootstrap, html5, css
+
+# For Login as admin
+
+Username: admin@gmail.com
+Password: 123456
