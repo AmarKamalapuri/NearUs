@@ -1,0 +1,32 @@
+p{
+    margin-left: 25px;
+    font-weight: 500
+}
+.about {padding: 70px 0;}
+.about .aboutimg figure {margin: 100px;}
+.about .aboutimg figure img {width: 100%;}
+.about .aboutimg h3 {
+font-size: 45px;
+line-height: 50px;
+margin-left: 30px;
+padding-top: 10px;
+font-weight: bold;
+padding-bottom: 30px;
+font-weight: 500;
+}
+.about .aboutimg p {color: #000; font-size: 17px; line-height: 23px; padding-top: 10px;}
+.about .aboutimg a {
+	max-width: 152px;
+background: #000;
+width: 100%;
+margin-left: 40px;
+display: inline-block;
+text-align: center;
+padding: 10px 0px;
+color: #fff;
+margin-top: 35px;
+}
+.about .aboutimg a:hover {
+	background: #4eddd2;
+	color: #000;
+}

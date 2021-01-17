@@ -1,0 +1,157 @@
+/**********************************/
+/********** General CSS ***********/
+/**********************************/
+
+body {
+    color: #353535;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    background: #f3f6ff;
+}
+
+a {
+    color: #FF6F61;
+}
+
+
+
+h1 {
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 900;
+}
+
+h2 {
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 700;
+}
+
+@media(min-width: 992px) {
+    .container-fluid {
+        padding-right: 60px;
+        padding-left: 60px;
+    }
+}
+
+
+
+
+
+/**********************************/
+/********* Form Input CSS *********/
+/**********************************/
+.form-control,
+.custom-select {
+    width: 100%;
+    height: 35px;
+    padding: 0 15px;
+    color: #999999;
+    border: 1px solid #dddddd;
+    margin-bottom: 15px
+}
+
+.form-control:focus,
+.custom-select:focus {
+    box-shadow: none;
+    border-color: #FF6F61;
+}
+
+.custom-radio,
+.custom-checkbox {
+    margin-bottom: 15px;
+}
+
+.custom-radio .custom-control-label::before,
+.custom-checkbox .custom-control-label::before {
+    background: #dddddd;
+    border-color: #dddddd;
+}
+
+.custom-radio .custom-control-input:checked~.custom-control-label::before,
+.custom-checkbox .custom-control-input:checked~.custom-control-label::before {
+    color: #ffffff;
+    background: #FF6F61;
+    border-color: #FF6F61;
+    box-shadow: none;
+}
+
+.btn {
+    color: #FF6F61;
+    background: #ffffff;
+    border: 1px solid #FF6F61;
+}
+
+.btn:hover,
+.btn:active,
+.btn:focus {
+    color: #ffffff;
+    background: #FF6F61;
+    box-shadow: none;
+}
+
+
+
+/**********************************/
+/********** Contact CSS ***********/
+/**********************************/
+.contact {
+    position: relative;
+    padding-top: 30px;
+}
+
+.contact .contact-info,
+.contact .contact-form,
+.contact .contact-map {
+    height: 100%;
+    padding: 30px;
+    background: #ffffff;
+    border-bottom: 30px solid #f3f6ff;
+}
+
+.contact .contact-info h2 {
+    margin-bottom: 15px;
+}
+
+.contact .contact-info h3 {
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+
+.contact .contact-info h3 i {
+    width: 20px;
+    color: #FF6F61;
+    margin-right: 5px;
+}
+
+.contact .social {
+    position: relative;
+    width: 100%;
+}
+
+.contact .social a {
+    display: inline-block;
+    margin: 10px 10px 0 0;
+    width: 40px;
+    height: 40px;
+    padding: 5px 0;
+    text-align: center;
+    font-size: 18px;
+    border: 1px solid #FF6F61;
+    border-radius: 4px;
+}
+
+.contact .social a i {
+    color: #FF6F61;
+}
+
+.contact .social a:hover {
+    background: #FF6F61;
+}
+
+.contact .social a:hover i {
+    color: #ffffff;
+}
+
+.contact .contact-map iframe {
+    width: 100%;
+    height: 450px;
+}
