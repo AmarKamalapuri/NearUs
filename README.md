@@ -22,7 +22,7 @@ Node.Js, Express, MongoDB, React (MERN), Cloudinary, Cors, dotenv, Axios, Bootst
 
 # For Login as admin
 
-Username: admin@gmail.com
+Username: admin@gmail.com <br>
 Password: 123456
 
 # Link for Video and PPT
@@ -30,7 +30,8 @@ Password: 123456
 https://drive.google.com/drive/folders/1baCFnaKCIoQ5c1VhOOxKRWTpSrBuV3-9
 <br>
 Install node modules in Backend as well as Client using command: npm install 
-After installing node modules, start backend with command: node server.js 
-Start Frontend by running command in client folder : npm start 
+<br>
+After installing node modules, start backend with command: node server.js <br>
+Start Frontend by running command in client folder : npm start <br>
 By default Frontend will start on port 3000 & Backend will start on port 5000
 
