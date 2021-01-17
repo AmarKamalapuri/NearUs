@@ -20,3 +20,7 @@ Node Js, Express, MongoDB, React (MERN), Cloudinary, Cors, dotenv, Axios, Bootst
 
 Username: admin@gmail.com
 Password: 123456
+
+# Link for Video and PPT
+
+https://drive.google.com/drive/folders/1baCFnaKCIoQ5c1VhOOxKRWTpSrBuV3-9
