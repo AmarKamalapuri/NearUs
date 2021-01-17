@@ -18,7 +18,7 @@ NearUs Official Website can be accessible at http://65.0.250.14
 
 # Technologies we have used
 
-Node.Js, Express, MongoDB, React (MERN), Cloudinary, Cors, dotenv, Axios, Bootstrap, Html5, CSS
+NodeJs, Express, MongoDB, React (MERN), Cloudinary, Cors, dotenv, Axios, Bootstrap, Html5, CSS
 
 # For Login as admin
 
