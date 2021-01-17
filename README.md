@@ -14,7 +14,7 @@ Near Us is a platform that enables people to discover the local businesses flour
 
 # Technologies we used
 
-Node Js, Express, MongoDB, React (MERN), Cloudinary, Cors, dotenv, Axios, Bootstrap, Htmll5, CSS
+Node Js, Express, MongoDB, React (MERN), Cloudinary, Cors, dotenv, Axios, Bootstrap, Html5, CSS
 
 # For Login as admin
 
